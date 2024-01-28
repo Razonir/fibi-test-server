@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E9KLIACg3G+8gyFsUdgOICI23pEdYKmPqAVVyqTow7o=",
+  "Source": "fibi-test-server",
+  "BasePath": "_content/fibi-test-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
